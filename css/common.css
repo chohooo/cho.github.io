@@ -1,5 +1,10 @@
+@font-face{
+  font-family: 'MaShanZheng-Regular';
+  src: url('..\diy-font\MaShanZheng-Regular.ttf');   
+}
+
 body {
-  font-family: "Roboto", "Helvetica Neue", "Hiragino Sans GB", "LiHei Pro", Arial, serif;
+  font-family: 'MaShanZheng-Regular';
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
