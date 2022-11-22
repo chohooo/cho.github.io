@@ -1,11 +1,8 @@
-@font-face{
-  font-family: 'Noto Serif SC', serif;
-  src: url('https://fonts.google.com/share?selection.family=Noto%20Serif%20SC:wght@600');   
-}
-
 body {
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Roboto", "Helvetica Neue", "Hiragino Sans GB", "LiHei Pro", Arial, serif;
   text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
   font-size: 16px;
   word-spacing: 1px;
@@ -40,7 +37,7 @@ a {
 
 .links {
   text-align: center;
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Roboto", "Helvetica Neue", "Hiragino Sans GB", "LiHei Pro", Arial, serif;
   color: #999;
   font-size: 24px;
   margin: 0;
@@ -59,7 +56,7 @@ a {
 }
 
 .search-result, .search-input, .post-item, .header, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Montserrat", "Helvetica Neue", "Hiragino Sans GB", "LiHei Pro", Arial, sans-serif;
   font-weight: 400;
   color: #444;
 }
